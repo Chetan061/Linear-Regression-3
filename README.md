@@ -9,11 +9,11 @@ To build the Model which will help to Predict the future Price based on Money in
 
 ## Hypothesis
 
-*  H0 :- There is no Linear relationship between Price and Sale, Internal_memory, Rear_cam , Front_cam  & Thickness
+*  H0 :- There is no Linear relationship between Price and Sale, Internal_memory, Rear_cam , Front_cam  & Thickness.
 
        Vs 
 
-*  H1 :- There is Linear relationship between Price and Sale, Internal_memory, Rear_cam , Front_cam  & Thickness
+*  H1 :- There is Linear relationship between Price and Sale, Internal_memory, Rear_cam , Front_cam  & Thickness.
 
  
  ## Python packages used
